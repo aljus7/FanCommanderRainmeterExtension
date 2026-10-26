@@ -1,0 +1,12 @@
+API/*
+*.dll
+*.exe
+*.pdb
+*.obj
+*.lib
+*.obj
+*.o
+*.so
+*.dylib
+*.a
+*.exp
